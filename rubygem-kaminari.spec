@@ -4,7 +4,7 @@
 #
 Name     : rubygem-kaminari
 Version  : 0.16.1
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/gems/kaminari-0.16.1.gem
 Source0  : https://rubygems.org/gems/kaminari-0.16.1.gem
 Summary  : No detailed summary available
